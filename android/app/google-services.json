@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "951287145364",
+    "firebase_url": "https://mobiledevelopment-ed0ab-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mobiledevelopment-ed0ab",
+    "storage_bucket": "mobiledevelopment-ed0ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951287145364:android:0b4e43ab94b11602dbe581",
+        "android_client_info": {
+          "package_name": "com.example.mobile_app_travistax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951287145364-nrm073pmb6sjcj46u97euds3lulv04e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvdbSIvbHCSkjzPnEQFg96iBwtUgXHYng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951287145364-nrm073pmb6sjcj46u97euds3lulv04e4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "951287145364-18i01jh3mf0b81d8irocq1m174kdm142.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mobileAppTravistax"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
